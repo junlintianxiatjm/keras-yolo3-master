@@ -1,0 +1,13 @@
+D:\python-workspace\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/102.jpg 50,15,629,615,1
+D:\python-workspace\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/104.jpg 74,5,409,312,1
+D:\python-workspace\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/105.jpg 77,31,300,311,1
+D:\python-workspace\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/113.jpg 137,55,272,232,1
+D:\python-workspace\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/114.jpg 81,11,672,658,1
+D:\python-workspace\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/115.jpg 135,10,492,517,1
+D:\python-workspace\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/116.jpg 115,56,395,524,1
+D:\python-workspace\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/13.jpg 119,205,563,993,0
+D:\python-workspace\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/15.jpg 29,23,243,293,0
+D:\python-workspace\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/16.jpg 55,41,341,496,0
+D:\python-workspace\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/2.jpg 74,1,495,293,0
+D:\python-workspace\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/20.jpg 62,104,723,722,0
+D:\python-workspace\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/6.jpg 4,32,273,349,0 279,104,487,352,0

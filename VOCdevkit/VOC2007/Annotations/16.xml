@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>16.jpg</filename>
+	<path>D:\python-workspace\keras-yolo3-master\VOCdevkit\VOC2007\JPEGImages\16.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>397</width>
+		<height>496</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>55</xmin>
+			<ymin>41</ymin>
+			<xmax>341</xmax>
+			<ymax>496</ymax>
+		</bndbox>
+	</object>
+</annotation>
